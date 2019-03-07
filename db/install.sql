@@ -1,0 +1,1 @@
+INSERT INTO `{c2r-prefix}_modules` (`name`, `folder`, `code`, `sort`) VALUES ("{c2r-mod-name}", "{c2r-mod-folder}", "{\r\n \"fa-icon\": \"fas fa-database\",\r\n \"img\": \"\",\r\n \"sub-items\": {},\r\n \"sidebar\": true,\r\n \"dropdown\": false\r\n}", 0);
